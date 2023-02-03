@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Running-George
-- 👀 I’m interested in badminton/Dota2/data in transportation and FOOD
+- 👀 I’m interested in SLAM/deep learning for map/badminton/food
 - 🌱 I’m currently learning new things and work hard
 - 📫 cauzhengxiaoqi@gmail.com wechat: dxss2280
 
