@@ -3,34 +3,35 @@
 
 
 **Brief**:
-- Senior Algorithm Engineer at [Changan Automobile](http://www.globalchangan.com/) Chongqing China.  资深算法设计工程师 重庆长安智途科技有限公司 重庆 中国 <br>
-- Classification
-- Clustering
-- Anomaly Detection
-- Similarity Measure
+- Senior Algorithm Engineer at [Changan Automobile](www.globalchangan.com/) China.  资深算法设计工程师 重庆长安智途科技有限公司 中国 <br>
+- Senior Engineer/Project Engineer at [Tylin Group](www.tylin.com/) China. 高级工程师/项目经理 林同棪国际工程咨询（中国）有限公司 中国<br>
+- Masters of Science in Civil Engineering and Computer Science from  [Georgia Tech](www.gatech.edu/)  佐治亚理工学院 土木工程/计算机科学 硕士学位 美国 <br>
+- Bachelor of Engineering in Civil Engineering  [China Agricultural University](https://en.cau.edu.cn/)  中国农业大学 土木工程 学士学位 中国 <br>
 
+
+**Interest**： 
+- Machine/Deep Learning  机器学习、深度学习
+- Optimization  优化
+- Computer Vision 计算机视觉
+- and their applications in autonomous driving  自动驾驶应用相关
+
+  Aside from that, I love to play badminton & dota and food  灵活的胖子 & 网瘾中年 & 吃货<br> 
+  
  **I am open to**:
 
-- any collobration work,
-- machine learning projects(development or research),
-- research internships and
-- available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
+- any collobration work
+- machine learning projects(development or research)
+- available to become reviewer or PC member for Machine Learning/Data mining journals or conferences
 
 **Recent Update**:
-- **August 2022**: Our paper _Anomaly Detection in Healthcare_ has been accepted for publication at the 11th International Conference on Health Information Science 2022 (HIS 2022).
-- **July 2022**: Our paper _sGrid++ : Revising Simple Grid based Density Estimator for Mining Outlying Aspect_ has been accepted for publication at the 23rd International Conference on Web Information Systems Engineering 2022 (WISE 2022).
-- **April 2022**: Our paper _A New Dimensionality-Unbiased Score for Efficient and Effective Outlying Aspect Mining_ accepted for the publication by the Data Science and Engineering Journal (Springer).[[Paper]](https://link.springer.com/article/10.1007/s41019-022-00185-5)
+- **Jan 2023**: Join Changan Automobile
 
-**Service to research comunity**:
-- PC Member, at The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases 2020 ([ECML/PKDD 2020](https://ecmlpkdd2020.net/organisation/programcommittee/)), Ghent [2020].
 
 ## Skills:
 
 #### Languages:
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
