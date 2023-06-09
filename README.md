@@ -6,11 +6,11 @@
 **🌱Brief**:
 - Senior Algorithm Engineer at [Changan Automobile](http://www.globalchangan.com/) China  资深算法设计工程师 重庆长安智途科技有限公司 中国
 
-- Research Engineer in Transportation at [Tylin Group](www.tylin.com/) China  研究工程师 林同棪国际工程咨询（中国）有限公司 中国
+- Research Engineer in Transportation at [Tylin Group](http://www.tylin.com/) China  研究工程师 林同棪国际工程咨询（中国）有限公司 中国
 
-- Masters of Science in Civil Engineering and Computer Science from  [Georgia Tech](www.gatech.edu/) USA  佐治亚理工学院 土木工程/计算机科学 硕士学位 美国
+- Masters of Science in Civil Engineering and Computer Science from  [Georgia Tech](http://www.gatech.edu/) USA  佐治亚理工学院 土木工程/计算机科学 硕士学位 美国
 
-- Bachelor of Engineering in Civil Engineering  [China Agricultural University](https://en.cau.edu.cn/) USA 中国农业大学 土木工程 学士学位 中国
+- Bachelor of Engineering in Civil Engineering  [China Agricultural University](http://en.cau.edu.cn/) USA 中国农业大学 土木工程 学士学位 中国
 
 **🤔Interest**： 
 - Machine/Deep Learning  机器学习、深度学习
