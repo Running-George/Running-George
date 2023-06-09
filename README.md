@@ -4,7 +4,7 @@
 
 
 **🌱Brief**:
-- Senior Algorithm Engineer at [Changan Automobile](www.globalchangan.com/) China  资深算法设计工程师 重庆长安智途科技有限公司 中国
+- Senior Algorithm Engineer at [Changan Automobile](http://www.globalchangan.com/) China  资深算法设计工程师 重庆长安智途科技有限公司 中国
 
 - Research Engineer in Transportation at [Tylin Group](www.tylin.com/) China  研究工程师 林同棪国际工程咨询（中国）有限公司 中国
 
