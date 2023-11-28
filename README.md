@@ -1,4 +1,4 @@
-### Hi there, I'm [Xiaoqi Zheng] 👋
+### Hi there, I'm Xiaoqi Zheng 👋
 
 
 
