@@ -1,4 +1,4 @@
-### Hi there, I'm [Xiaoqi Zheng](https://durgeshsamariya.github.io) 👋
+### Hi there, I'm [Xiaoqi Zheng] 👋
 
 
 
